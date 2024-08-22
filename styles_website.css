@@ -5,9 +5,17 @@ body {
     box-sizing: border-box;
     background-color: #f9f9f9;
 }
+.tracks
+{
+    margin-top:100px;
+    margin-bottom:50px;
+    color: black;
+    font-size:30px;
+    font-weight: bold; 
+}
 #logo-img
 {
-    height:20px;
+    height:80px;
 }
 /* Styles for the "Book a FREE trial" button */
 /* Styles for the "Book a FREE trial" button */
@@ -65,7 +73,7 @@ header {
         }
         .hero-content {
             flex: 1;
-             padding-left: 3%; 
+             padding-left: 10%; 
         }
         .hero-features {
             margin-top: 1rem;
@@ -94,11 +102,7 @@ header {
         {
 
         }
-        .course-image
-        {
-
-        }
-
+       
 .logo {
     font-size: 24px;
     font-weight: bold;
@@ -543,6 +547,7 @@ nav ul li a::before {
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
+            margin-bottom: 100px;
         }
         .course-card {
             flex: 1;
