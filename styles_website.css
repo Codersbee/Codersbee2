@@ -5,6 +5,10 @@ body {
     box-sizing: border-box;
     background-color: #f9f9f9;
 }
+#logo-img
+{
+    height:80px;
+}
 /* Styles for the "Book a FREE trial" button */
 /* Styles for the "Book a FREE trial" button */
 .btn-trial {
